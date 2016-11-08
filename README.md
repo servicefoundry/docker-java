@@ -3,6 +3,4 @@ Base Docker Image for Java Enviroment
 
 It is Alpine, plus:
 
-- Utilities
-  - curl
-  - bash
+- java-1.8-openjdk
