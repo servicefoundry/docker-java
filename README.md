@@ -1,2 +1,2 @@
-# docker-java
-Base Java Enviroment Docker Image for Service Foundry Platform
+# Service Foundry - Java Base Image
+Base Docker Image for Java Enviroment
